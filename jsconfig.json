@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "baseUrl": "./public",
+        "paths": {
+            "@/*": ["resources/js/*"]
+        }
+    },
+    "exclude": ["node_modules", "public"]
+}
